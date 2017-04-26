@@ -49,5 +49,5 @@ node_modules
 jspm_packages
 bower_components
 *.map
-!main.js
 *.js
+!main.js
