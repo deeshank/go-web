@@ -7,4 +7,4 @@ import { HomeComponent } from './home/home.component'
   selector: 'my-app',
   templateUrl: 'app.component.html',
 })
-export class AppComponent  { name = 'OPN'; }
+export class AppComponent  { brand = 'OPN'; }
