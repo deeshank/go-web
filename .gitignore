@@ -48,6 +48,3 @@ src/app/**/*.map
 node_modules
 jspm_packages
 bower_components
-*.map
-*.js
-!main.js
